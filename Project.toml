@@ -1,0 +1,4 @@
+name = "JcVoronoiBuilder"
+uuid = "69b3a645-863a-40a2-8575-739b8f4cff98"
+authors = ["Atsushi Sakai <asakai.amsl+github@gmail.com>"]
+version = "0.1.0"
